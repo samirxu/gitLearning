@@ -8,3 +8,5 @@
 
 ¹þ¹þ£¬ÐÞ¸Ä6£¬17.07.11 
 
+git pull is one command to update all to remote?
+
