@@ -14,3 +14,4 @@ if I modify this file in github? 2017-07-12
 if I modify this file in local? Simon
 :
 if modify this file in github again. 
+change git harsh the branch to origin/master
