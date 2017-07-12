@@ -14,5 +14,9 @@ if I modify this file in github? 2017-07-12
 if I modify this file in local? Simon
 :
 if modify this file in github again. 
+<<<<<<< HEAD
 
 modify the file in simon branch 
+=======
+change git harsh the branch to origin/master
+>>>>>>> 9581645d46d5d412e4a0620f6697d977ae667acf
